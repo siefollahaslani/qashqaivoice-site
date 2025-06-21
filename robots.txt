@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://siefollahaslani.github.io/qashqaivoice-site/sitemap.xml
