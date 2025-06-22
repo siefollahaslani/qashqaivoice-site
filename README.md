@@ -40,3 +40,22 @@
 - Gerçek zamanlı çok dilli çeviri ve yanıtlar
 - Düşük bant genişliği olan bölgeler için hafif web arayüzü
 - Erişilebilir ses teknolojisiyle engelli bireyleri güçlendirme
+# 🎙️ QashqAI Voice – Inclusive Multilingual AI
+
+Welcome to the official GitHub repository for **QashqAI Voice** – an open-source, multilingual, accessible AI platform built to preserve endangered dialects and empower users with visual impairments.
+
+🌍 **Try the live GPT here:**  
+👉 [QashqAI Voice on ChatGPT](https://chatgpt.com/g/g-68438a7569088191a2ca2ce81d9971b8-qashqai-voice-inclusive-multilingual-ai)
+
+## 🔎 About the Project
+QashqAI Voice uses Whisper, GPT-4o, and TTS to provide real-time transcription, translation, and simplified dialogue for speakers of minority languages such as Qashqai. Built for low-bandwidth and inclusive use.
+
+📂 This repo includes:
+- Multilingual HTML landing page
+- SEO optimization (`sitemap.xml`, `robots.txt`)
+- Open AI public GPT integration
+
+---
+
+🧠 Developed by [Siefollah Aslani](https://www.linkedin.com/in/siefollah-aslani-a86941341/)  
+🕊️ For digital inclusion, cultural justice, and accessibility.
