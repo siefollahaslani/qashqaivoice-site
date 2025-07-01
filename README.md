@@ -57,5 +57,11 @@ QashqAI Voice uses Whisper, GPT-4o, and TTS to provide real-time transcription, 
 
 ---
 
-🧠 Developed by [Siefollah Aslani](https://www.linkedin.com/in/siefollah-aslani-a86941341/)  
+🧠 Developed by [Siefollah Aslani](https://www.linkedin.com/in/siefollah-aslani-a86941341/)  ### 🔖 Ethical Principles
+
+QashqAI Voice is guided by ethical commitments to cultural dignity, transparency, accessibility, and memory.
+
+📄 [View ETHICS.md](./ETHICS.md)  
+🗃 [Download full declaration (PDF)](./QashqAI_Voice_Ethical_Declaration.pdf)  
+🌐 [Archived on Internet Archive](https://archive.org/details/qashq-ai-voice-ethical-declaration)
 🕊️ For digital inclusion, cultural justice, and accessibility.
